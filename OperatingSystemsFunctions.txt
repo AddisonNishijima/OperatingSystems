@@ -1,0 +1,4 @@
+One operating system function is that of the processor manager. 
+According to John Philips Jones, "it is responsable for allocating processing time to the various processes that can run on an operating system".
+The processor manager is also associated with the CPU. 
+Together, the processor manager and the memory manager have a form of cooperation, much like other operating system functions.
