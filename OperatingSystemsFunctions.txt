@@ -2,3 +2,6 @@ One operating system function is that of the processor manager.
 According to John Philips Jones, "it is responsable for allocating processing time to the various processes that can run on an operating system".
 The processor manager is also associated with the CPU. 
 Together, the processor manager and the memory manager have a form of cooperation, much like other operating system functions.
+The memory manager is responsible where programs/processes are stored in the memory.
+Random access memory, 'silicion memory', AKA "Main Memory" is the memory storage associated with this operating system function.
+A standard relationship between the memory manager and processor manager may look like the memory manager cooperating with the processor manager to let the processor manager know where the next proccess or program is stored in the memory.
